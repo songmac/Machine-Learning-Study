@@ -1,8 +1,9 @@
 # Machine-Learning-Study
 
-This repo is for learning ML Algorithm.
+This repo is for learning machine learning algorithms.
 
-Here is main keywords and entire flow of ML's theory.
+It contains the main keywords and the overall flow of machine learning theory.
+
 
 ### **머신러닝 개요**
 
